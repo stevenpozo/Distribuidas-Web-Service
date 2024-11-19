@@ -34,7 +34,7 @@ Para consumir un servicio web de una calculadora, que cuenta con las operaciones
 1. **Clona el repositorio**:
     ```bash
     git clone https://github.com/stevenpozo/Distribuidas-Web-Service.git
-    cd nombre-del-proyecto/C#
+    cd Distribuidas-Web-Service/C#
     ```
 
 2. **Abre el proyecto en Visual Studio 2022**:
@@ -77,7 +77,7 @@ Para consumir un servicio web de una calculadora, que cuenta con las operaciones
 1. **Clona el repositorio**:
     ```bash
     git clone https://github.com/stevenpozo/Distribuidas-Web-Service.git
-    cd nombre-del-proyecto/calculadora
+    cd Distribuidas-Web-Service/calculadora
     ```
 
 2. **Configura el `PATH` del sistema para incluir la carpeta `bin` del JDK**:
